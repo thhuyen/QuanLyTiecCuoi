@@ -2,24 +2,8 @@
 ## Quản lý tiệc cưới - Wedding Management
 
 
-#### [2021-2022] SE104.M22 
-Giảng viên: Đỗ Thị Thanh Tuyền
-
-
-
-
-
-
 
 ![Logo](https://portal.uit.edu.vn/Styles/profi/images/logo186x150.png)
-
-
-#### Sinh viên thực hiện
-- Nguyễn Thị Thanh Huyền 
-- Bùi Đoàn Khánh Ân
-- Võ Vương Thanh Tú
-- Nguyễn Thanh Thảo
-
 
 
 ## Demo
